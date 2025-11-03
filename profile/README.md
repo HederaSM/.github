@@ -1,7 +1,7 @@
 # 🌿 Welcome to HederaSM
 
 **HederaSM** is a modern SaaS platform built by [@PatrickVheijningen](https://github.com/PatrickVheijningen).  
-We focus on **automation, smart email management, and digital workspaces** powered by clean, responsive design.
+I focus on **automation, smart email management, and digital workspaces** powered by clean, responsive design.
 
 ---
 
